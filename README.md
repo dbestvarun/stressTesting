@@ -7,7 +7,7 @@ A stress testing batch script with a simple batch script to generate multiple te
 
 * I only used this in Windows.
 
-## How to use
+## How to use Stress.bat
 1. You have to prepare 3 other programs along with this script. Those are, your original solution (`solution.cpp`), the bruteforce/correct solution (`brute.cpp`), and the randomized input generator (`gen.cpp`).
 2. Have them all in the same directory.
 3. Open your command prompt there.
@@ -28,7 +28,7 @@ A stress testing batch script with a simple batch script to generate multiple te
    ```
 
 
-## How to use
+## How to use gen_tc.bat
 1. You have to prepare 2 other programs along with this script. Those are, the randomized input generator (`gen.cpp`), and the solution (`solution.cpp`).
 2. Have them all in the same folder/directory.
 3. Open your command prompt there.
